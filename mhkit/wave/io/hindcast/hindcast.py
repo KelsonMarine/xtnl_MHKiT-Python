@@ -68,6 +68,7 @@ def region_selection(lat_lon):
         "Hawaii": {"lat": [15.0, 27.000002], "lon": [-164.0, -151.0]},
         "West_Coast": {"lat": [30.0906, 48.8641], "lon": [-130.072, -116.899]},
         "Atlantic": {"lat": [24.382, 44.8247], "lon": [-81.552, -65.721]},
+        "Alaska": {"lat": [45, 65], "lon": [-200, -130]},
     }
 
     def region_search(lat_lon, region, regions):
